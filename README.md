@@ -14,7 +14,7 @@ built in pure Python with no external dependencies. Data is persisted in a JSON 
 
 ## Quick start
 
-    git clone https://github.com/<VittyP>/<Store_inventory_manager_VP>.git
+    git clone https://github.com/VittyP/Store_inventory_manager_VP.git
     cd <Store_inventory_manager_VP>
     python Store_VP.py
 
