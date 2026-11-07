@@ -2,6 +2,8 @@
 A command-line application for managing a small store's inventory and sales,
 built in pure Python with no external dependencies. Data is persisted in a JSON file.
 
+**Context:** Project developed as part of the Data Science Master Course by ProAI SRL. The brief was provided by the course; the code and documentation are my own work.
+
 ## Features
 
 - **Inventory management**: add products, or increase stock of existing ones
