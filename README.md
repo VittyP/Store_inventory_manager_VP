@@ -12,12 +12,6 @@ built in pure Python with no external dependencies. Data is persisted in a JSON 
 - **Input validation**: invalid quantities, prices and unknown products are handled gracefully
 - **Persistent storage**: all changes are saved automatically to `inventory.json`
 
-## Quick start
-
-    git clone https://github.com/VittyP/Store_inventory_manager_VP.git
-    cd <Store_inventory_manager_VP>
-    python Store_VP.py
-
 ## Commands
 
 | Command   | Description                          |
